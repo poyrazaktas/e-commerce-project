@@ -15,6 +15,7 @@ Without [json-server](https://github.com/typicode/json-server) you cant see any 
 ### Start JSON Server
 
 `cd functions`
+
 `json-server --watch shop.json`
 
 Then you can run the project.
