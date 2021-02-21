@@ -1,0 +1,130 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Laptop",
+      "price": 2500,
+      "categoryId": 1,
+      "description": "Acer Aspire",
+      "imageUrl": "https://images.unsplash.com/photo-1556583186-c7b22658adea?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1051&q=80"
+    },
+    {
+      "id": 2,
+      "name": "Mouse",
+      "price": 75,
+      "categoryId": 1,
+      "description": "Logitech",
+      "imageUrl": "https://images.unsplash.com/photo-1595074475055-10ab7377ccfb?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=700&q=80"
+    },
+    {
+      "id": 3,
+      "name": "Keyboard",
+      "price": 200,
+      "categoryId": 1,
+      "description": "Logitech",
+      "imageUrl": "https://images.unsplash.com/photo-1580577855719-a3e7c1a8d212?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80"
+    },
+    {
+      "id": 4,
+      "name": "Speakers",
+      "price": 250,
+      "categoryId": 1,
+      "description": "FOCAL",
+      "imageUrl": "https://images.unsplash.com/photo-1573096272447-f58103a3fe16?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80"
+    },
+    {
+      "id": 5,
+      "name": "Camera",
+      "price": 100,
+      "categoryId": 2,
+      "description": "Canon",
+      "imageUrl": "https://images.unsplash.com/photo-1516961642265-531546e84af2?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80"
+    },
+    {
+      "id": 6,
+      "name": "Drone",
+      "price": 100,
+      "categoryId": 2,
+      "description": "Phantom",
+      "imageUrl": "https://images.unsplash.com/photo-1521405924368-64c5b84bec60?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=967&q=80"
+    },
+    {
+      "id": 7,
+      "name": "Pizza",
+      "price": 25,
+      "categoryId": 3,
+      "description": "Dominos",
+      "imageUrl": "https://images.unsplash.com/photo-1513104890138-7c749659a591?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80"
+    },
+    {
+      "id": 8,
+      "name": "Burger",
+      "price": 25,
+      "categoryId": 3,
+      "description": "Biber",
+      "imageUrl": "https://images.unsplash.com/photo-1550547660-d9450f859349?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=701&q=80"
+    },
+    {
+      "id": 9,
+      "name": "Mouse-pad",
+      "price": 25,
+      "categoryId": 1,
+      "description": "Anonymous",
+      "imageUrl": "https://images.unsplash.com/photo-1541615008677-0d46e9f9dcb6?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80"
+    },
+    {
+      "name": "Telefon",
+      "description": "Apple ",
+      "imageUrl": "https://images.unsplash.com/photo-1571654681830-ef991494a42a?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=967&q=80",
+      "price": "10000",
+      "categoryId": "2",
+      "id": 10
+    },
+    {
+      "name": "Makarna",
+      "description": "Mado",
+      "imageUrl": "https://images.unsplash.com/photo-1551892374-ecf8754cf8b0?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=700&q=80",
+      "price": "20",
+      "categoryId": "3",
+      "id": 11
+    },
+    {
+      "name": "Kapı",
+      "description": "IKEA",
+      "imageUrl": "https://images.unsplash.com/photo-1536160885591-301854e2ed04?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80",
+      "price": "1850",
+      "categoryId": "2",
+      "id": 12
+    },
+    {
+      "name": "Buzdolabı",
+      "description": "Arçelik",
+      "price": "2000",
+      "imageUrl": "https://images.unsplash.com/photo-1588854337115-1c67d9247e4d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80",
+      "categoryId": "2",
+      "id": 13
+    },
+    {
+      "name": "Kebap",
+      "description": "Saray Kebap",
+      "price": "18",
+      "imageUrl": "https://images.unsplash.com/photo-1532636875304-0c89119d9b4d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80",
+      "categoryId": "3",
+      "id": 14
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Bilgisayar"
+    },
+    {
+      "id": 2,
+      "name": "Elektronik"
+    },
+    {
+      "id": 3,
+      "name": "Yiyecek - içecek"
+    }
+  ]
+}
